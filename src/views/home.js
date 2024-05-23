@@ -19,8 +19,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Buoyant Glorious Raccoon</title>
-        <meta property="og:title" content="Buoyant Glorious Raccoon" />
+        <title>Turf Book</title>
+        <meta property="og:title" content="Turf Book" />
       </Helmet>
       <div className="home-navbar1">
         <Navbar4></Navbar4>
